@@ -1,0 +1,25 @@
+{
+  "cik": "0000789019",
+  "filings": {
+    "recent": {
+      "accessionNumber": ["0000789019-26-000050", "0000789019-26-000049"],
+      "filingDate": ["2026-04-25", "2026-04-24"],
+      "reportDate": ["2026-03-31", "2026-04-24"],
+      "form": ["10-Q", "8-K"],
+      "primaryDocument": ["msft-20260331.htm", "msft-20260424.htm"]
+    },
+    "files": [
+      {
+        "name": "CIK0000789019-submissions-002.json",
+        "filingFrom": "2010-01-01",
+        "filingTo": "2018-12-31"
+      },
+      {
+        "name": "CIK0000789019-submissions-001.json",
+        "filingFrom": "2019-01-01",
+        "filingTo": "2025-12-31"
+      }
+    ]
+  }
+}
+
