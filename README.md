@@ -1,6 +1,6 @@
 # FilingDiff
 
-FilingDiff is a research-first project for understanding changes between public
+FilingDiff is a research oriented project for understanding changes between public
 company SEC filings. This repository currently contains **milestone 1 only**:
 given one of five supported tickers, retrieve its official SEC filing history
 and report its two newest exact-form 10-Q filings.
